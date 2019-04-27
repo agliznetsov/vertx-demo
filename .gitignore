@@ -1,0 +1,6 @@
+### Vert.x ###
+.vertx/
+
+target
+.idea
+*.iml
